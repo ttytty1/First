@@ -1,0 +1,37 @@
+{
+  "pages": 
+  [
+      "pages/about/about",
+      "pages/weekly/weekly",
+      "pages/button test/button test"
+  ],
+  "tabBar":{
+    "list":[
+      {
+        "text": "都是魔鬼",
+        "pagePath": "pages/weekly/weekly",
+        "iconPath": "image/icons/飞机.png",
+        "selectedIconPath": "image/icons/背包.png"
+      },
+      {
+        "text": "关于hhh",
+        "pagePath": "pages/about/about",
+        "iconPath": "image/icons/风扇.png",
+        "selectedIconPath": "image/icons/地图.png"
+      },
+            {
+              "text": "按钮测试",
+              "pagePath": "pages/button test/button test",
+              "iconPath": "image/icons/路标.png",
+              "selectedIconPath": "image/icons/指南针.png"
+            }
+    ],
+    "color": "#000",
+    "selectedColor": "#00f"
+  },
+  "window":{
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "A Begnning"
+  }
+}

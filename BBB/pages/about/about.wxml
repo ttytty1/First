@@ -1,0 +1,20 @@
+<view class='container'>
+  <image class='about-banner'
+  src="/image/shu.jpg"></image>
+  <text style='font-weight: bold;font-size:60rpx'>SHU</text>
+  
+  <view>
+  <text>自</text>
+  <navigator 
+  style='display: inline;' 
+  url='/pages/weekly/weekly'
+  open-type="switchTab"
+  hover-class='nav-hover'
+  class='nav-default'
+  >强</navigator>
+  <text>不息</text>
+
+  </view>
+  <text>上海大学666</text>
+
+</view>
