@@ -1,0 +1,11 @@
+.container2{
+
+  height:100vh;
+ background-image: 
+ url('http://bmob-cdn-21792.b0.upaiyun.com/2018/10/13/e612be37409da39a80f2814c6bda1f12.jpg');background-size: cover;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  
+}

@@ -1,0 +1,7 @@
+<view class='container'>
+ <text>本周推荐</text>
+ <image class='about-banner2' src='/image/screen1.jpg'></image>
+ <text>杀戮天使</text>
+ <text>特色：加拿大无头鬼</text>
+ <text>{{count}}</text>
+ </view>
